@@ -1,4 +1,5 @@
 ## 안드로이드 메모장
+- This is android mole catching game.
 
 #### 주요기능
 1. listview 이용 간단한 메모 가능
